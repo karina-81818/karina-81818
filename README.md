@@ -8,6 +8,7 @@ I'm Karina and I'm a Frontend developer from Yakutsk
   <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="200"/>
 </div>
 ### Connect with me:
+
 - <a href="https://t.me/karinadarina" target="blank">Telegram</a>
 - <a href="karina.isl@inbox.ru" target="blank">E-mail</a>
 
