@@ -3,8 +3,10 @@
 
 I'm Karina and I'm a Frontend developer from Yakutsk
 
-<div class="tenor-gif-embed" data-postid="18331367212609625093" data-share-method="host" data-aspect-ratio="1.26923" data-width="100%"><a href="https://tenor.com/view/peach-goma-pc-night-keyboard-smashing-gif-18331367212609625093">Peach Goma Pc Night Keyboard Smashing Sticker</a>from <a href="https://tenor.com/search/peach+goma+pc-stickers">Peach Goma Pc Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+<div id="header" align="start">
+  <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="200"/>
+</div>
 ### Connect with me:
 - <a href="https://t.me/karinadarina" target="blank">Telegram</a>
 - <a href="karina.isl@inbox.ru" target="blank">E-mail</a>
