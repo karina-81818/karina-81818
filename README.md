@@ -12,9 +12,10 @@ I'm Karina and I'm a Frontend developer from Yakutsk
 - 📘✏️ I’m currently learning ReactJS and JS.
   
 ### Connect with me:
-
-- <a href="https://t.me/karinadarina" target="blank"><img src="https://i.ibb.co/s9Z5S4r/telegram.png" title="telegram" alt="telegram" width="40" height="40"></a>
-- <a href="karina.isl@inbox.ru" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/9068/9068642.png" title="email" alt="email" width="40" height="40"></a>
+<div>
+<a href="https://t.me/karinadarina" target="blank"><img src="https://i.ibb.co/s9Z5S4r/telegram.png" title="telegram" alt="telegram" width="40" height="40"></a>
+<a href="karina.isl@inbox.ru" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/9068/9068642.png" title="email" alt="email" width="40" height="40"></a>
+</div>
 
 ### Technologies:
 <div>
