@@ -1,15 +1,14 @@
 ### Hello 👋,
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+to+Karina-81818's+Github+Profile..)](https://git.io/typing-svg)
 
-I'm Karina and I'm a Frontend developer from Yakutsk
+I'm Karina and I'm a Go Developer from Yakutsk
 
 
 <div id="header" align="start">
   <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="200"/>
 </div>
 
-- 💻🖱 I’m currently working on ReactJS projects.
-- 📘✏️ I’m currently learning ReactJS and JS.
+- 📘✏️ I’m currently learning Golang
   
 ### Connect with me:
 <div>
