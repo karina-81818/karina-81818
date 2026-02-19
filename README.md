@@ -9,6 +9,7 @@ I'm Karina and I'm a Go Developer from Yakutsk
 </div>
 
 - 📘✏️ I’m currently learning Golang
+- 🌱 I study at School 21
   
 ### Connect with me:
 <div>
